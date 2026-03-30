@@ -1,1 +1,2 @@
 Learning GitHub is fun
+I’m learning Git step-by-step
